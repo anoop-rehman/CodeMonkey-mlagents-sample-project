@@ -2,4 +2,4 @@
 
 This is my recreation of the MLAgents_Intro sample project used by CodeMonkey in his [How to use Machine Learning AI in Unity! (ML-Agents) tutorial](https://www.youtube.com/watch?v=zPFU30tbyKs).
 
-[Link text Here](https://link-url-here.org)
+
